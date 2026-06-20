@@ -1,7 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=0xItoHub&show_icons=true&locale=en&layout=compact)
 
-![](https://skillicons.dev/icons?i=html,css,js,java,python)
-
+![](https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nextjs,nodejs,fastapi,flutter,dart,azure,aws,gcp,terraform,docker,git,github)
 
 <p align="center">
   <picture>
